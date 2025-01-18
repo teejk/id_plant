@@ -1,0 +1,26 @@
+# Scratch folder
+scratch/
+
+# Mac
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+.python-version
+-RunAsAdmin
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Archives and backups
+**/archive
+*.bak
+
+# Caches
+.pytest_cache/
