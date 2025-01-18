@@ -1,3 +1,6 @@
+# Ignore all files named latest.pt
+latest.pt
+
 # Scratch folder
 scratch/
 
